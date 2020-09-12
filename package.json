@@ -33,7 +33,7 @@
     "fs-extra": "^8.1.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/node": "^12.7.2",
