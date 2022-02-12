@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Smithsonian/dpo-cook-cli#readme",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "fs-extra": "^8.1.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
